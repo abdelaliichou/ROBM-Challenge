@@ -1,0 +1,6 @@
+[console_scripts]
+control_heading = robm_tp4_nav.control_heading:main
+line_follower = robm_tp4_nav.line_follower_pusher:main
+move = robm_tp4_nav.move:main
+obstacle_avoid = robm_tp4_nav.obstacle_avoid:main
+waypoints = robm_tp4_nav.waypoints:main

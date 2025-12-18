@@ -1,0 +1,25 @@
+[0.796s] Invoking command in '/home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge': AMENT_PREFIX_PATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces/lib:${LD_LIBRARY_PATH} PIXI_PROMPT=(robm) PYTHONPATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge/prefix_override:/home/aichou/uni_projects/ROBM/challenge/robm-pixi/.pixi/envs/default/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/lib/python3.12/site-packages:/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /home/aichou/uni_projects/ROBM/challenge/robm-pixi/.pixi/envs/default/bin/python3.12 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge/build --no-deps symlink_data
+[0.881s] /home/aichou/uni_projects/ROBM/challenge/robm-pixi/.pixi/envs/default/lib/python3.12/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.881s]   warnings.warn(msg)
+[0.954s] running develop
+[1.050s] running egg_info
+[1.060s] creating robm_bridge.egg-info
+[1.060s] writing robm_bridge.egg-info/PKG-INFO
+[1.060s] writing dependency_links to robm_bridge.egg-info/dependency_links.txt
+[1.060s] writing entry points to robm_bridge.egg-info/entry_points.txt
+[1.060s] writing requirements to robm_bridge.egg-info/requires.txt
+[1.060s] writing top-level names to robm_bridge.egg-info/top_level.txt
+[1.060s] writing manifest file 'robm_bridge.egg-info/SOURCES.txt'
+[1.080s] reading manifest file 'robm_bridge.egg-info/SOURCES.txt'
+[1.080s] writing manifest file 'robm_bridge.egg-info/SOURCES.txt'
+[1.090s] running build_ext
+[1.090s] Creating /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/lib/python3.12/site-packages/robm-bridge.egg-link (link to .)
+[1.090s] Installing udp_bridge script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/lib/robm_bridge
+[1.090s] Installing zenoh_bridge script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/lib/robm_bridge
+[1.091s] 
+[1.091s] Installed /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge
+[1.091s] running symlink_data
+[1.091s] creating /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/share/ament_index/resource_index/packages
+[1.091s] symbolically linking /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge/resource/robm_bridge -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/share/ament_index/resource_index/packages
+[1.091s] symbolically linking /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge/package.xml -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/share/robm_bridge
+[1.109s] Invoked command in '/home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge' returned '0': AMENT_PREFIX_PATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces/lib:${LD_LIBRARY_PATH} PIXI_PROMPT=(robm) PYTHONPATH=/home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge/prefix_override:/home/aichou/uni_projects/ROBM/challenge/robm-pixi/.pixi/envs/default/lib/python3.12/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_bridge/lib/python3.12/site-packages:/home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_interfaces/lib/python3.12/site-packages:${PYTHONPATH} /home/aichou/uni_projects/ROBM/challenge/robm-pixi/.pixi/envs/default/bin/python3.12 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_bridge/build --no-deps symlink_data

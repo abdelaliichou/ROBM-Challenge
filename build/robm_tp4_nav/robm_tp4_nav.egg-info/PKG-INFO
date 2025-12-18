@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: robm_tp4_nav
+Version: 0.1.1
+Summary: Outils et squelettes de code pour le TP4/TP5 de ROBM
+Maintainer: Vincent Drevelle
+Maintainer-email: vincent.drevelle@univ-rennes.fr
+License: BSD-3-Clause
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

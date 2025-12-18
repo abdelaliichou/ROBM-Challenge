@@ -1,0 +1,9 @@
+source;share/robm_tp4_nav/hook/pythonpath.ps1
+source;share/robm_tp4_nav/hook/pythonpath.dsv
+source;share/robm_tp4_nav/hook/pythonpath.sh
+source;share/robm_tp4_nav/hook/ament_prefix_path.ps1
+source;share/robm_tp4_nav/hook/ament_prefix_path.dsv
+source;share/robm_tp4_nav/hook/ament_prefix_path.sh
+source;../../build/robm_tp4_nav/share/robm_tp4_nav/hook/pythonpath_develop.ps1
+source;../../build/robm_tp4_nav/share/robm_tp4_nav/hook/pythonpath_develop.dsv
+source;../../build/robm_tp4_nav/share/robm_tp4_nav/hook/pythonpath_develop.sh

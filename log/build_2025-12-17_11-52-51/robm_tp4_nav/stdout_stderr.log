@@ -1,0 +1,54 @@
+/home/aichou/uni_projects/ROBM/challenge/robm-pixi/.pixi/envs/default/lib/python3.12/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating ../../build/robm_tp4_nav/robm_tp4_nav.egg-info
+writing ../../build/robm_tp4_nav/robm_tp4_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/robm_tp4_nav/robm_tp4_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/robm_tp4_nav/robm_tp4_nav.egg-info/entry_points.txt
+writing requirements to ../../build/robm_tp4_nav/robm_tp4_nav.egg-info/requires.txt
+writing top-level names to ../../build/robm_tp4_nav/robm_tp4_nav.egg-info/top_level.txt
+writing manifest file '../../build/robm_tp4_nav/robm_tp4_nav.egg-info/SOURCES.txt'
+reading manifest file '../../build/robm_tp4_nav/robm_tp4_nav.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/robm_tp4_nav/robm_tp4_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+copying robm_tp4_nav/move.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+copying robm_tp4_nav/obstacle_avoid.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+copying robm_tp4_nav/line_follower_pusher.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+copying robm_tp4_nav/waypoints.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+copying robm_tp4_nav/__init__.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+copying robm_tp4_nav/control_heading.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav
+running install
+running install_lib
+creating /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+copying /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav/move.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+copying /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav/obstacle_avoid.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+copying /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav/line_follower_pusher.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+copying /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav/waypoints.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+copying /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav/__init__.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+copying /home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/build/lib/robm_tp4_nav/control_heading.py -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav
+byte-compiling /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav/move.py to move.cpython-312.pyc
+byte-compiling /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav/obstacle_avoid.py to obstacle_avoid.cpython-312.pyc
+byte-compiling /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav/line_follower_pusher.py to line_follower_pusher.cpython-312.pyc
+byte-compiling /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav/waypoints.py to waypoints.cpython-312.pyc
+byte-compiling /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav/control_heading.py to control_heading.cpython-312.pyc
+running install_data
+creating /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/ament_index/resource_index/packages
+copying resource/robm_tp4_nav -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/robm_tp4_nav
+creating /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/robm_tp4_nav/launch
+copying launch/move_launch.xml -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/robm_tp4_nav/launch
+copying launch/control_heading_launch.xml -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/robm_tp4_nav/launch
+copying launch/move_avoid_launch.xml -> /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/share/robm_tp4_nav/launch
+running install_egg_info
+Copying ../../build/robm_tp4_nav/robm_tp4_nav.egg-info to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/python3.12/site-packages/robm_tp4_nav-0.1.1-py3.12.egg-info
+running install_scripts
+Installing control_heading script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/robm_tp4_nav
+Installing line_follower script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/robm_tp4_nav
+Installing move script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/robm_tp4_nav
+Installing obstacle_avoid script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/robm_tp4_nav
+Installing waypoints script to /home/aichou/uni_projects/ROBM/challenge/robm-pixi/install/robm_tp4_nav/lib/robm_tp4_nav
+writing list of installed files to '/home/aichou/uni_projects/ROBM/challenge/robm-pixi/build/robm_tp4_nav/install.log'
