@@ -24,10 +24,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'control_heading = robm_tp4_nav.control_heading:main',
-            'move = robm_tp4_nav.move:main',
+            'line_follower = robm_tp4_nav.line_follower_pusher:main',
             'hard_trophy = robm_tp4_nav.hard_trophy:main',
-            'obstacle = robm_tp4_nav.obstacle_avoid:main',
             'simple_trophy = robm_tp4_nav.simple_trophy:main',
             'servo = robm_tp4_nav.servo:main',
             'gripper = robm_tp4_nav.gripper:main',
